@@ -4933,7 +4933,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 Email template chosen based on theme fallback when ""Default"" option is selected.",module,Magento_Customer
 "Email Sender","Afzender E-mail",module,Magento_Customer
 "Require Emails Confirmation","E-mailbevestiging verplichten",module,Magento_Customer
-"Confirmation Link Email","Bevestiginglink e-mail",module,Magento_Customer
+"Confirmation Link Email","Bevestigingslink e-mail",module,Magento_Customer
 "Welcome Email","Welkomstmail",module,Magento_Customer
 "This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />,module,Magento_Customer
 Email template chosen based on theme fallback when ""Default"" option is selected.","This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />,module,Magento_Customer
